@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723181988261",
+    "project_id": "explore-nj-d31be",
+    "storage_bucket": "explore-nj-d31be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723181988261:android:2cdda6d5d6f08b3f00204c",
+        "android_client_info": {
+          "package_name": "com.pranav.explore_nj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723181988261-r5i007ce2tmvqee1l4bgqk6sl57ssbjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDagyMuKwSqx-kVxDgeBfkmWddZM6oPoX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723181988261-r5i007ce2tmvqee1l4bgqk6sl57ssbjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
